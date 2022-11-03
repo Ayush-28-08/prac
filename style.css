@@ -480,6 +480,12 @@ hr{
 #playbutton{
     left: 89px;
 }
+    #bluecar{
+    animation-duration: 1.5s;
+}
+#tank{
+    animation-duration: 1.5s;
+}
 #namebox{
     left: 86px;
 }
