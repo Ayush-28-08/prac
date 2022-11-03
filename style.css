@@ -7,7 +7,7 @@ background-image: url('./assets/newbg.png');
 }
 #gamename{
     font-family: 'Fredoka One', cursive;
-    font-size: 50px;
+    font-size: 40px;
     color: rgb(52, 25, 25);
     align-items: center;
 }
